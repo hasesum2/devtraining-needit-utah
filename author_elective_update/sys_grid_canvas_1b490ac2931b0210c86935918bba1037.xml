@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="New Tab 2">1f490ac2931b0210c86935918bba1036</legacy_page>
+        <name>New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 08:59:28</sys_created_on>
+        <sys_id>1b490ac2931b0210c86935918bba1037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_1b490ac2931b0210c86935918bba1037</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:59:28</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>491a6c22db6af91005ef172913961994</instance_id>
+        <instance_name>dev217201</instance_name>
+        <name>sys_grid_canvas_1b490ac2931b0210c86935918bba1037</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="New Tab 2">1f490ac2931b0210c86935918bba1036</legacy_page><name>New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-11 08:59:28</sys_created_on><sys_id>1b490ac2931b0210c86935918bba1037</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_grid_canvas_1b490ac2931b0210c86935918bba1037</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-11 08:59:28</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>-1383059166</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>979dde4793874210c86935918bba101a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 08:59:28</sys_created_on>
+        <sys_id>17490a8a931b0210c86935918bba10b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190a104daad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:59:28</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>1b490a8a301b0210cc871d0b6fb6c1b1</update_guid>
+        <update_guid_history>1b490a8a301b0210cc871d0b6fb6c1b1:-1383059166</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 08:59:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>264faf2ecb9849929e39d09be8562e69</sys_id>
+        <sys_metadata>1b490ac2931b0210c86935918bba1037</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_1b490ac2931b0210c86935918bba1037</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_1b490ac2931b0210c86935918bba1037">17490a8a931b0210c86935918bba10b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:59:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
